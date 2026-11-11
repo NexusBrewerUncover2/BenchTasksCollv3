@@ -1,3 +1,0 @@
-# Agent System Prompt
-
-Test
